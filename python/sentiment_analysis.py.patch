@@ -1,0 +1,5 @@
+<<<<<<< PATCH
+plt.savefig(f"C:\wamp64\www\ecommerce\images\uploads\sentiment\overall_sentiment_product_{product_id}.png")
+=======
+plt.savefig(rf"C:\wamp64\www\ecommerce\images\uploads\sentiment\overall_sentiment_product_{product_id}.png")
+>>>>>>> PATCH
